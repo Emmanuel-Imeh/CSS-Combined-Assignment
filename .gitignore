@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#VS Code
+.vscode
+.DS_Store
