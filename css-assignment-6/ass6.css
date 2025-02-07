@@ -108,6 +108,16 @@ header{
     }
     
 }
+#span-oneStop{
+    font-weight: bolder; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 337px;
+    height: 96px;
+    font-size: 40px; 
+    line-height: 48px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
 span {
     width: 56px;
     height: 22px;
@@ -332,4 +342,154 @@ div > h3{
     background-color: #FFFFFF;
     margin: 0 auto;
 }
+.price-perfect{
+    width: 576px;
+    margin: 0 auto;
+    position: relative;
+    top: 40px
+}
+#why-choose-scissors{
+    width: 382px;
+    height: 32px;
+    gap: 0px;
+    opacity:0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    line-height:32px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    font-weight: bolder;
+}
 
+#wcs-p{
+    width: 370px;
+    height: 192px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.urls-div{
+    width: 708px;
+    height: 220px;
+    gap: 28px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: row;
+}
+#urls-cont{
+    width: 340px;
+    height: 220px;
+    gap: 40px;
+    opacity: 0px;
+}
+#urls-cont2{
+    width: 340px;
+    height: 211px;
+    gap: 40px;
+    opacity: 0px;
+}
+#urls-cont-p{
+    font-family: Gilroy-Medium;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    position: relative;
+    top: 10px;
+}
+#urls-p{
+    font-family: Gilroy-Medium;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    position: relative;
+    top: 10px; 
+}
+.urls-div2{
+    width: 708px;
+    height: 220px;
+    gap: 28px;
+    opacity: 0px; 
+    display: flex;
+}
+.prof_container{
+    position: relative;
+    top: 218px;
+    left:100px;
+    width: 1088px;
+    height: 627px;
+    display: flex;
+    align-items: center;
+}
+#prof-btn{
+    width:412px;
+    height:48px;
+    top: 250px;
+    left: 514px;
+    gap: 12px;
+    opacity: 0px;
+    position: relative;
+}
+.paste_container{
+    width: 1440px;
+    height: 1153px;
+    top: 794px;
+    left: -721px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    align-content: center;
+    justify-items: left;
+}
+.trim_container{
+    width: 1440px;
+    height: 523px;
+    top: 271px;
+    left: -721px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+    background-color: #1E3448;
+    align-content: center;
+    justify-items: center;
+}
+#Revolutionizing{
+    width: 1440px;
+    height: 299px;
+    top: 1947px;
+    left: -721px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+    align-content: center;
+    justify-content: center;
+    background-color: #1E3448;
+}
+[alt="FAQs"]{
+    justify-self: baseline; position: relative; left: 330px
+}
+[alt="Revolutionizing"]{
+    position: relative;
+    left: 25%;
+}
+.scissors_footer{
+    width: 1440px;
+    height: 561px;
+    top: 2246px;
+    left: -721px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
