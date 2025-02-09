@@ -140,7 +140,7 @@ input::placeholder{
 .media-status-bar{
     visibility: hidden;
 }
-@media (max-width: 425px){
+@media (max-width: 768px){
     .ass4-bg{
         width: 375px;
         height: 1294px;
