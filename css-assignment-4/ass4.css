@@ -56,6 +56,9 @@
     font-size: 20px;
     color: grey;
 }
+#gr-p-vis{
+    visibility: hidden;
+}
 .fm-bg{
     width: 580px;
     height: 679px;
@@ -137,7 +140,7 @@ input::placeholder{
 .media-status-bar{
     visibility: hidden;
 }
-@media screen and (width < 1300px){
+@media (max-width: 425px){
     .ass4-bg{
         width: 375px;
         height: 1294px;
@@ -195,7 +198,16 @@ input::placeholder{
         height: 50px;
         font-size: 20px;
         color: grey;
+        visibility: hidden;
     }
+    #gr-p-vis{
+        width: 327px;
+        height: 50px;
+        font-size: 20px;
+        color: grey;
+        visibility: visible;
+    }
+
     .fm-bg{
         width: 327px;
         height: 900px;
